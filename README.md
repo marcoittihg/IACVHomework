@@ -6,11 +6,11 @@ Homework for the Image Analysis and Computer Vision (IACV) course
 
 ### Features:
 ##### 1) Edges detection.
-<img src="Images/CannyImp1.jpg" width="40%"> <img src="Images/CannyImp2.jpg" width="40%"> <img src="Images/CannyImp3.jpg" width="40%"> 
+<img src="Images/CannyImp1.jpg" width="45%"> <img src="Images/CannyImp2.jpg" width="45%"> <img src="Images/CannyImp3.jpg" width="45%"> 
 ##### 2) Corners detection.
-<img src="Images/HarrisImp1.png" width="40%"> <img src="Images/HarrisImp2.png" width="40%"> <img src="Images/HarrisImp3.png" width="40%"> 
+<img src="Images/HarrisImp1.png" width="45%"> <img src="Images/HarrisImp2.png" width="45%"> <img src="Images/HarrisImp3.png" width="45%"> 
 ##### 3) Edges detection.
-<img src="Images/LineDec1.png" width="40%"> <img src="Images/LineDec2.png" width="40%"> <img src="Images/LineDec3.png" width="40%"> 
+<img src="Images/LineDec1.png" width="45%"> <img src="Images/LineDec2.png" width="45%"> <img src="Images/LineDec3.png" width="45%"> 
 
 ### Geometry:
 ##### 4.1) Find two horizontal vanishing points and one vertical vanishing point.
