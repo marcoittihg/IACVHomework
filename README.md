@@ -1,6 +1,8 @@
 # IACVHomework
 Homework for the Image Analysis and Computer Vision (IACV) course
 
+For a more in depth explaination read [Report.pdf](Report.pdf)
+
 ## Input image
 <img src="First.jpg" width="70%" class="center">
 
