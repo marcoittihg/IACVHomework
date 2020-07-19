@@ -2,24 +2,24 @@
 Homework for the Image Analysis and Computer Vision (IACV) course
 
 ## Input image
-![](first.jpg)
+<img src="First.jpg" width="50%">
 
 ### Features:
 ##### 1) Edges detection.
-![](Images/CannyImp1.jpg) ![](Images/CannyImp2.jpg) ![](Images/CannyImp3.jpg) 
+<img src="Images/CannyImp1.jpg" width="30%"> <img src="Images/CannyImp2.jpg" width="30%"> <img src="Images/CannyImp3.jpg" width="30%"> 
 ##### 2) Corners detection.
-![](Images/HarrisImp1.jpg) ![](Images/HarrisImp2.jpg) ![](Images/HarrisImp3.jpg) 
+<img src="Images/HarrisImp1.jpg" width="30%"> <img src="Images/HarrisImp2.jpg" width="30%"> <img src="Images/HarrisImp3.jpg" width="30%"> 
 ##### 3) Edges detection.
-![](Images/LineDec1.jpg) ![](Images/LineDec2.jpg) ![](Images/LineDec3.jpg) 
+<img src="Images/LineDec1.jpg" width="30%"> <img src="Images/LineDec2.jpg" width="30%"> <img src="Images/LineDec3.jpg" width="30%"> 
 
 ### Geometry:
 ##### 4.1) Find two horizontal vanishing points and one vertical vanishing point.
-![](Images/VanishingPoints.png)
+<img src="Images/VanishingPoints.png" width="50%">
 ##### 4.2) Look at the image below and consider the horizontal section of facades 1, 2 and 6 , depicted in yellow: metrically reconstruct this horizontal section*, so as to determine the relative coordinates of features points indicated in blue. These point features are placed (i) at the intersections between facades 1 and 2 and between facades 6 and 7, and (ii) in correspondence of borders of the windows.
-![](Images/MetricReconstruction.png)
+<img src="Images/MetricReconstruction.png" width="50%">
 ##### 4.3) Estimate the calibration matrix K of the camera. Assume the camera is zero-skew, but not natural.
-![](Images/KValues.png)
+<img src="Images/KValues.png" width="50%">
 ##### 4.4) Use the knowledge of K to rectify also a vertical facade, as, e.g., facade 1 or 4 or 2+6.
-![](Images/VerticalRectification.png)
+<img src="Images/VerticalRectification.png" width="50%">
 ##### 4.5) Fix a suitable reference frame attached to the building, and localize the camera relative to the fixed reference.
-![](Images/PositionAndRotation.png)
+<img src="Images/PositionAndRotation.png" width="50%">
